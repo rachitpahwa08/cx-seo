@@ -40,7 +40,8 @@ let userAgents = [
   "MetaInspector",
   "LinkedInBot",
   "facebookexternalhit",
-  "Twitterbot"
+  "Twitterbot",
+  "WhatsApp"
 ];
 
 let pageRoutes=["/","/pricing","/contactus","/blog", "/blog/The-benefits-of-customer-journey-mapping-explained-in-detail"];
