@@ -40,7 +40,7 @@ let userAgents = [
   "MetaInspector"
 ];
 
-let pageRoutes=["/","/pricing","/contactus","/blog", "blog/The-benefits-of-customer-journey-mapping-explained-in-detail"];
+let pageRoutes=["/","/pricing","/contactus","/blog", "/blog/The-benefits-of-customer-journey-mapping-explained-in-detail"];
 
 let checkUserAgent=(reqUserAgent)=>{
   let flag=false
